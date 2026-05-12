@@ -7,3 +7,21 @@ Day 1: Base Wallet Connect Starter
 - Setting up project structure
 
 Commit streak starts today.
+
+# Day 12-1: Base NFT Holdings Checker
+
+- Building NFT holdings checker UI
+- Connecting wallet for NFT tracking
+- Preparing NFT balance interaction
+- Expanding Base portfolio utilities
+
+Builder streak continues.
+
+# Day 12-2: Favorite Token Watchlist
+
+- Added favorite token watchlist UI
+- Managing frequently tracked tokens
+- Improving portfolio monitoring workflow
+- Strengthening Base builder experience
+
+Still building. Still shipping.

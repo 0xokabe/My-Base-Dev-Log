@@ -25,3 +25,21 @@ Builder streak continues.
 - Strengthening Base builder experience
 
 Still building. Still shipping.
+
+# Day 13-1: Wallet Profile Manager
+
+- Building wallet profile UI
+- Connecting wallet for profile setup
+- Adding nickname save feature
+- Improving personalized wallet management
+
+Builder streak continues.
+
+# Day 13-2: Portfolio Summary Dashboard
+
+- Added portfolio summary dashboard
+- Tracking ETH, tokens, and NFT overview
+- Improving wallet asset visibility
+- Strengthening Base builder workflow
+
+Still building. Still shipping.

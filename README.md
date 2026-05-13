@@ -1,5 +1,14 @@
 # Base 100 Days Builder Challenge
 
+## Overview
+
+Building on Base for 100 days.
+Daily commits. Daily shipping.
+
+---
+
+# Base 100 Days Builder Challenge
+
 Day 1: Base Wallet Connect Starter
 
 - Researching Base ecosystem

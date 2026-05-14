@@ -52,3 +52,21 @@ Builder streak continues.
 - Strengthening Base builder workflow
 
 Still building. Still shipping.
+
+# Day 14-1: Token Transfer History
+
+- Added token transfer history viewer
+- Tracking recent token send/receive actions
+- Improving visibility for wallet activity
+- Expanding Base portfolio tracking
+
+Builder streak continues.
+
+# Day 14-2: Favorite Wallet Tracker
+
+- Added favorite wallet saving UI
+- Managing frequently tracked wallets
+- Improving wallet monitoring workflow
+- Strengthening Base builder experience
+
+Still building. Still shipping.

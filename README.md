@@ -70,3 +70,21 @@ Builder streak continues.
 - Strengthening Base builder experience
 
 Still building. Still shipping.
+
+# Day 15-1: Wallet Activity Stats
+
+- Added wallet activity statistics viewer
+- Tracking total transactions and transfers
+- Improving visibility for wallet usage patterns
+- Expanding Base analytics workflow
+
+Builder streak continues.
+
+# Day 15-2: Quick Send Template
+
+- Added quick send template UI
+- Saving recipient and amount presets
+- Improving transaction convenience
+- Strengthening Base builder workflow
+
+Still building. Still shipping.

@@ -88,3 +88,21 @@ Builder streak continues.
 - Strengthening Base builder workflow
 
 Still building. Still shipping.
+
+# Day 16-1: Gas Fee Speed Tracker
+
+- Added gas fee speed tracker UI
+- Comparing slow, standard, and fast gas options
+- Improving transaction planning workflow
+- Expanding Base gas management tools
+
+Builder streak continues.
+
+# Day 16-2: Wallet Notes Manager
+
+- Added wallet notes management UI
+- Saving wallet memos and transaction notes
+- Improving wallet organization workflow
+- Strengthening Base builder productivity
+
+Still building. Still shipping.

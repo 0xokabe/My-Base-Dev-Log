@@ -106,3 +106,21 @@ Builder streak continues.
 - Strengthening Base builder productivity
 
 Still building. Still shipping.
+
+# Day 17-1: Token Price Tracker
+
+- Added token price tracker UI
+- Monitoring ETH and stablecoin prices
+- Improving portfolio awareness
+- Expanding Base builder analytics
+
+Builder streak continues.
+
+# Day 17-2: Wallet Tag Manager
+
+- Added wallet tag management UI
+- Saving labels for important wallets
+- Improving wallet organization workflow
+- Strengthening Base builder productivity
+
+Still building. Still shipping.

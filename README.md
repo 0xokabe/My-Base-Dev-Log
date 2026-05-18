@@ -124,3 +124,21 @@ Builder streak continues.
 - Strengthening Base builder productivity
 
 Still building. Still shipping.
+
+# Day 18-1: Bridge History Viewer
+
+- Added bridge activity history viewer
+- Tracking cross-chain asset movements
+- Improving visibility for bridge interactions
+- Expanding Base portfolio monitoring
+
+Builder streak continues.
+
+# Day 18-2: Wallet Risk Checker
+
+- Added wallet risk checker UI
+- Reviewing wallet safety before transfers
+- Improving security awareness for transactions
+- Strengthening Base builder workflow
+
+Still building. Still shipping.

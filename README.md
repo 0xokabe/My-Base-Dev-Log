@@ -15,16 +15,12 @@ Day 1: Base Wallet Connect Starter
 - Preparing wallet connection starter
 - Setting up project structure
 
-Commit streak starts today.
-
 # Day 12-1: Base NFT Holdings Checker
 
 - Building NFT holdings checker UI
 - Connecting wallet for NFT tracking
 - Preparing NFT balance interaction
 - Expanding Base portfolio utilities
-
-Builder streak continues.
 
 # Day 12-2: Favorite Token Watchlist
 
@@ -33,16 +29,12 @@ Builder streak continues.
 - Improving portfolio monitoring workflow
 - Strengthening Base builder experience
 
-Still building. Still shipping.
-
 # Day 13-1: Wallet Profile Manager
 
 - Building wallet profile UI
 - Connecting wallet for profile setup
 - Adding nickname save feature
 - Improving personalized wallet management
-
-Builder streak continues.
 
 # Day 13-2: Portfolio Summary Dashboard
 
@@ -51,16 +43,12 @@ Builder streak continues.
 - Improving wallet asset visibility
 - Strengthening Base builder workflow
 
-Still building. Still shipping.
-
 # Day 14-1: Token Transfer History
 
 - Added token transfer history viewer
 - Tracking recent token send/receive actions
 - Improving visibility for wallet activity
 - Expanding Base portfolio tracking
-
-Builder streak continues.
 
 # Day 14-2: Favorite Wallet Tracker
 
@@ -69,16 +57,12 @@ Builder streak continues.
 - Improving wallet monitoring workflow
 - Strengthening Base builder experience
 
-Still building. Still shipping.
-
 # Day 15-1: Wallet Activity Stats
 
 - Added wallet activity statistics viewer
 - Tracking total transactions and transfers
 - Improving visibility for wallet usage patterns
 - Expanding Base analytics workflow
-
-Builder streak continues.
 
 # Day 15-2: Quick Send Template
 
@@ -87,16 +71,12 @@ Builder streak continues.
 - Improving transaction convenience
 - Strengthening Base builder workflow
 
-Still building. Still shipping.
-
 # Day 16-1: Gas Fee Speed Tracker
 
 - Added gas fee speed tracker UI
 - Comparing slow, standard, and fast gas options
 - Improving transaction planning workflow
 - Expanding Base gas management tools
-
-Builder streak continues.
 
 # Day 16-2: Wallet Notes Manager
 
@@ -114,16 +94,12 @@ Still building. Still shipping.
 - Improving portfolio awareness
 - Expanding Base builder analytics
 
-Builder streak continues.
-
 # Day 17-2: Wallet Tag Manager
 
 - Added wallet tag management UI
 - Saving labels for important wallets
 - Improving wallet organization workflow
 - Strengthening Base builder productivity
-
-Still building. Still shipping.
 
 # Day 18-1: Bridge History Viewer
 
@@ -132,8 +108,6 @@ Still building. Still shipping.
 - Improving visibility for bridge interactions
 - Expanding Base portfolio monitoring
 
-Builder streak continues.
-
 # Day 18-2: Wallet Risk Checker
 
 - Added wallet risk checker UI
@@ -141,4 +115,18 @@ Builder streak continues.
 - Improving security awareness for transactions
 - Strengthening Base builder workflow
 
-Still building. Still shipping.
+# Day 19-1: Token Approval Checker
+
+- Added token approval checker UI
+- Tracking token approvals for dApps
+- Improving visibility for wallet permissions
+- Strengthening Base security workflow
+
+# Day 19-2: Recurring Transfer Planner
+
+- Added recurring transfer planner UI
+- Managing scheduled transfer ideas
+- Improving transaction preparation workflow
+- Expanding Base builder productivity
+
+

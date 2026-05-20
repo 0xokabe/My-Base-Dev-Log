@@ -129,4 +129,17 @@ Still building. Still shipping.
 - Improving transaction preparation workflow
 - Expanding Base builder productivity
 
+# Day 20-1: Portfolio Allocation Viewer
+
+- Added portfolio allocation viewer UI
+- Tracking asset distribution across holdings
+- Improving portfolio analysis workflow
+- Expanding Base analytics tools
+
+# Day 20-2: Transaction Memo Manager
+
+- Added transaction memo management UI
+- Saving notes for important transfers
+- Improving wallet organization workflow
+- Strengthening Base builder productivity
 

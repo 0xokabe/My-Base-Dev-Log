@@ -185,3 +185,17 @@ Still building. Still shipping.
 - Improving bridge transaction planning
 - Strengthening Base builder workflow
 
+# Day 24-1: DAO Proposal Tracker
+
+- Added DAO proposal tracker UI
+- Monitoring active governance proposals
+- Improving visibility for community governance
+- Expanding Base ecosystem tools
+
+# Day 24-2: Token Swap Preview
+
+- Added token swap preview UI
+- Estimating token swap output
+- Improving DeFi transaction planning
+- Strengthening Base builder workflow
+

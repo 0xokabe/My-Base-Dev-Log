@@ -226,3 +226,17 @@ Still building. Still shipping.
 - Tracking personal DeFi investment goals
 - Improving long-term portfolio planning
 - Strengthening Base builder productivity
+
+# Day 27-1: Yield Farm Tracker
+
+- Added yield farming tracker UI
+- Monitoring farming APR and deposits
+- Improving DeFi yield visibility
+- Expanding Base ecosystem analytics
+
+# Day 27-2: Daily Profit Log
+
+- Added daily profit log UI
+- Tracking DeFi gains and observations
+- Improving portfolio journaling workflow
+- Strengthening Base builder productivity

@@ -240,3 +240,17 @@ Still building. Still shipping.
 - Tracking DeFi gains and observations
 - Improving portfolio journaling workflow
 - Strengthening Base builder productivity
+
+# Day 28-1: NFT Collection Viewer
+
+- Added NFT collection viewer UI
+- Monitoring NFT holdings and floor prices
+- Improving NFT portfolio visibility
+- Expanding Base ecosystem dashboard
+
+# Day 28-2: Token Watchlist Manager
+
+- Added token and NFT watchlist UI
+- Managing important assets to monitor
+- Improving market tracking workflow
+- Strengthening Base builder productivity

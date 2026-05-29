@@ -52,7 +52,7 @@ Day 1: Base Wallet Connect Starter
 
 # Day 14-2: Favorite Wallet Tracker
 
-- Added favorite wallet saving UI
+- Added favorite wallet saving UI 
 - Managing frequently tracked wallets 
 - Improving wallet monitoring workflow
 - Strengthening Base builder experience

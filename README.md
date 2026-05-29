@@ -254,3 +254,12 @@ Still building. Still shipping.
 - Managing important assets to monitor
 - Improving market tracking workflow
 - Strengthening Base builder productivity
+
+# Day 29-1: Airdrop Tracker
+
+- Added airdrop tracking dashboard UI
+- Monitoring eligibility and claim status
+- Improving onchain reward visibility
+- Expanding Base ecosystem analytics
+
+Builder streak continues.

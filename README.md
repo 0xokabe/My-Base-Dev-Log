@@ -265,3 +265,4 @@ Still building. Still shipping.
 # Day 29-2: Gas Usage History
 
 - Added gas usage history viewer UI
+- Tracking historical gas spending

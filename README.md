@@ -262,3 +262,4 @@ Still building. Still shipping.
 - Improving onchain reward visibility
 - Expanding Base ecosystem analytics
 
+# Day 29-2: Gas Usage History

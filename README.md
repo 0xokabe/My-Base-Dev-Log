@@ -13,7 +13,7 @@ Day 1: Base Wallet Connect Starter
 
 - Researching Base ecosystem
 - Preparing wallet connection starter
-- Setting up project structure
+- Setting up project structure 
 
 # Day 12-1: Base NFT Holdings Checker
 

@@ -9,7 +9,7 @@ export default function Day29GasUsageHistory() {
       date: string;
       gasUsed: string;
     }[]
-  >([]);
+  >([]); 
 
   const loadHistory = () => {
     // simplified mock gas usage history

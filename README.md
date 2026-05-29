@@ -40,7 +40,7 @@ Day 1: Base Wallet Connect Starter
 
 - Added portfolio summary dashboard
 - Tracking ETH, tokens, and NFT overview
-- Improving wallet asset visibility
+- Improving wallet asset visibility 
 - Strengthening Base builder workflow
 
 # Day 14-1: Token Transfer History

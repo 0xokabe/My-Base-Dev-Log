@@ -15,7 +15,7 @@ Day 1: Base Wallet Connect Starter
 - Preparing wallet connection starter
 - Setting up project structure 
 
-# Day 12-1: Base NFT Holdings Checker
+# Day 12-1: Base NFT Holdings Checker 
 
 - Building NFT holdings checker UI
 - Connecting wallet for NFT tracking

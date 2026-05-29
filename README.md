@@ -24,7 +24,7 @@ Day 1: Base Wallet Connect Starter
 
 # Day 12-2: Favorite Token Watchlist
 
-- Added favorite token watchlist UI 
+- Added favorite token watchlist UI  
 - Managing frequently tracked tokens
 - Improving portfolio monitoring workflow
 - Strengthening Base builder experience

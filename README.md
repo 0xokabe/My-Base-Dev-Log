@@ -76,7 +76,7 @@ Day 1: Base Wallet Connect Starter
 - Added gas fee speed tracker UI
 - Comparing slow, standard, and fast gas options
 - Improving transaction planning workflow
-- Expanding Base gas management tools
+- Expanding Base gas management tools 
 
 # Day 16-2: Wallet Notes Manager
 

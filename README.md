@@ -263,3 +263,5 @@ Still building. Still shipping.
 - Expanding Base ecosystem analytics
 
 # Day 29-2: Gas Usage History
+
+- Added gas usage history viewer UI

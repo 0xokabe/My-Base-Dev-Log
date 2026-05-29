@@ -267,3 +267,4 @@ Still building. Still shipping.
 - Added gas usage history viewer UI
 - Tracking historical gas spending
 - Improving transaction cost analysis
+- Strengthening Base builder workflow
